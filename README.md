@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Hello, I’m Nitika.gif" alt="Hello / Namaste, I'm Nitika" /  >
+  <img src="Hello, I’m Nitika (1200 x 300 px).gif" alt="Hello / Namaste, I'm Nitika" /  >
 </p>
 
 Final‑year Computer Science student at Nanyang Technological University (graduating 2026), with a strong focus on Data Science, AI, and Machine Learning.
