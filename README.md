@@ -1,7 +1,10 @@
-# Hi, I'm Nitika Borkar 👋
+hi, i'm nitika 🩵
+Final‑year Computer Science student at Nanyang Technological University (graduating 2026), with a strong focus on Data Science, AI, and Machine Learning.
 
-**AI/ML Engineer** | Final Year Computer Science @ NTU Singapore  
-🎓 Dean's List | 🏆 Hackathon Winner | 🚀 Building intelligent systems
+💻 Specialising in GenAI, Computer Vision, and deploying intelligent solutions that solve real‑world problems.
+
+🤖 Building production ML pipelines, designing predictive models, and architecting multi‑agent systems that can be integrated into products and workflows.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitikaborkar@gmail.com)
@@ -122,27 +125,6 @@ Multi-modal AI platform combining NLP and Computer Vision for detecting health m
 ### 🏆 [Adaptify AI - Hackathon Winner](https://github.com/AnantK2709/intution-2025)
 AI-powered change management platform with RAG and real-time feedback  
 **Tech:** LangChain • RAG • React • FastAPI • Sentiment Analysis
-
----
-
-## 💬 About Me
-
-```
-
-class NitikaBorkar:
-def __init__(self):
-self.education = "Computer Science @ NTU Singapore"
-self.graduation = "May 2026"
-self.interests = ["Machine Learning", "Computer Vision", "LLMs", "Causal Inference"]
-self.currently = "President @ NTU Open-Source Society"
-
-    def specialties(self):
-        return {
-            "Computer Vision": ["YOLO", "RT-DETR", "SAM", "MediaPipe"],
-            "LLMs": ["LangChain", "RAG", "Prompt Engineering"],
-            "ML": ["Uplift Modeling", "Time Series", "Ensemble Methods"]
-        }
-    ```
 
 ---
 
