@@ -1,4 +1,6 @@
-### Hi, I'm Nitika ✨
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=900&color=9A4DFF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Nitika;नमस्ते%2C+मैं+नितिका+हूँ;नमस्कार%2C+मी+नितिका+आहे;Hola%2C+soy+Nitika;Bonjour%2C+je+suis+Nitika" alt="Hi, I'm Nitika" />
+</p>
 
 Final‑year Computer Science student at Nanyang Technological University (graduating 2026), with a strong focus on Data Science, AI, and Machine Learning.
 
