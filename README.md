@@ -9,7 +9,7 @@ Final‑year Computer Science student at Nanyang Technological University (gradu
 🤖 Building production ML pipelines, designing predictive models, and architecting multi‑agent systems that can be integrated into products and workflows.
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin](https://www.linkedin.com/in/nitika-borkar-107a96254/))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitikaborkar@gmail.com)
 
 
