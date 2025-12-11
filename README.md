@@ -9,9 +9,12 @@ Final‑year Computer Science student at Nanyang Technological University (gradu
 🤖 Building production ML pipelines, designing predictive models, and architecting multi‑agent systems that can be integrated into products and workflows.
 
 
+Want to get to know me beyond bullet points?
+Meet **NitikaNexus 🤖** — a RAG-powered chatbot that answers anything about my projects, experience, and interests: https://nitkanexus-nitikaborkars-projects.vercel.app/
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitika-borkar-107a96254/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitikaborkar@gmail.com)
-
 
 ---
 
