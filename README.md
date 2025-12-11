@@ -1,4 +1,4 @@
-### Hi, i'm nitika ✨
+### Hi, I'm Nitika ✨
 
 Final‑year Computer Science student at Nanyang Technological University (graduating 2026), with a strong focus on Data Science, AI, and Machine Learning.
 
