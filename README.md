@@ -136,12 +136,3 @@ AI-powered change management platform with RAG and real-time feedback
 📧 nitikaborkar@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/nitika-borkar-107a96254/) 
 
 ---
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=nitikaborkar&color=blueviolet&style=flat-square)
-
-⭐️ From [nitikaborkar](https://github.com/nitikaborkar)
-
-</div>
-```
